@@ -1,0 +1,4 @@
+com\antonio\clients\fraud\FraudCheckResponse.class
+com\antonio\clients\notification\NotificationClient.class
+com\antonio\clients\notification\NotificationRequest.class
+com\antonio\clients\fraud\FraudClient.class

@@ -1,0 +1,6 @@
+com\antonio\fraud\FraudCheckHistoryRepository.class
+com\antonio\fraud\FraudCheckHistory.class
+com\antonio\fraud\FraudApplication.class
+com\antonio\fraud\FraudCheckHistory$FraudCheckHistoryBuilder.class
+com\antonio\fraud\FraudCheckService.class
+com\antonio\fraud\FraudController.class

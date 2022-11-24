@@ -1,0 +1,8 @@
+com\antonio\customer\CustomerConfig.class
+com\antonio\customer\Customer$CustomerBuilder.class
+com\antonio\customer\CustomerApplication.class
+com\antonio\customer\CustomerController.class
+com\antonio\customer\CustomerRepository.class
+com\antonio\customer\CustomerService.class
+com\antonio\customer\Customer.class
+com\antonio\customer\CustomerRegistrationRequest.class
